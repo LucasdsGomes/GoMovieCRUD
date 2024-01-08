@@ -8,18 +8,23 @@ Este repositório apresenta um projeto de exemplo de um CRUD manual para manipul
 O objetivo inicial foi criar um CRUD básico usando uma base de dados simulada em um slice de filmes. O próximo passo é direcionar esse projeto para a utilização do banco de dados Postgres, explorando a integração completa entre Go e uma base de dados mais robusta.
 
 #GET ALL (Buscar todos) localhost:5000/movies
+
 ![image](https://github.com/LucasdsGomes/GoMovieCRUD/assets/114450172/008e3821-0e3d-4384-97d6-b4d7691529f4)
 
 #GET BY ID (Busca por ID) localhost:5000/movies/{ID} (O ENDEREÇO FINAL É O ID DO FILME A SER BUSCADO)
+
 ![image](https://github.com/LucasdsGomes/GoMovieCRUD/assets/114450172/5dc7d495-5337-4206-97f2-6c2f4626e265)
 
 #CREATE (Criar filme) localhost:5000/movies (Criar manualmente)
+
 ![image](https://github.com/LucasdsGomes/GoMovieCRUD/assets/114450172/2473b3a9-7555-44c9-ae73-0b6216c8f13e)
 
 #UPDATE (Atualizar) localhost:5000/movies/432448 (O ENDEREÇO FINAL É O ID DO FILME A SER ATUALIZADO)
+
 ![image](https://github.com/LucasdsGomes/GoMovieCRUD/assets/114450172/ac9e8c3b-0aa4-407b-808f-a8d3203ba05a)
 
 #DELETE localhost:5000/movies/1 (O ENDEREÇO FINAL É O ID DO FILME A SER DELETADO)
+
 ![image](https://github.com/LucasdsGomes/GoMovieCRUD/assets/114450172/aea0a49f-bc13-471f-84e7-68f5debac12c)
 
 # Como Utilizar
