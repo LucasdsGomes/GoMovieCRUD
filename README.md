@@ -50,6 +50,9 @@ cd GoMovieCRUD
 
 Você pode explorar o código-fonte no seu editor de preferência.
 Para executar localmente, você pode compilar o projeto:
+
 -> go build
+
 E então executá-lo:
+
 -> ./GoMovieCRUD
